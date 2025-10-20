@@ -1,44 +1,36 @@
 <!-- 🟩 Animated Banner -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ahmedhamdinooo/ahmedhamdinooo/main/banner.gif" width="100%" alt="Ahmed Hamdy Banner" />
-</div>
+<p align="center">
+  <!-- ✅ استخدم رابط شغال دائمًا -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Animated Color Banner"/>
+</p>
 
-<!-- Header -->
+<!-- 🧑‍💻 Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Ahmed Hamdy</span></h1>
-<h3 align="center">💻 Back-End Developer | Node.js | Express.js | MongoDB | MySQL | PostgreSQL</h3>
+<h3 align="center">💻 Back-End Developer | Node.js | Express.js | MongoDB | MySQL | PostgreSQL | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/ahmedhamdinooo">
-    <img src="https://avatars.githubusercontent.com/u/107443113?v=4" width="150" style="border-radius:50%;" alt="Ahmed Hamdy Avatar">
+    <img src="https://avatars.githubusercontent.com/u/107443113?v=4" width="140" style="border-radius:50%;" alt="Ahmed Hamdy Avatar">
   </a>
 </p>
 
----
-
-<!-- 🌈 Animated Divider -->
+<!-- 🌈 Clean Divider -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="4">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
 </p>
 
----
-
 ### 🧠 About Me
-
 <p align="center">
 🚀 Passionate <b>Back-End Developer</b> dedicated to crafting <b>secure, scalable, and clean APIs</b>.<br/>
-💡 Experienced with <b>JWT Authentication</b>, <b>RESTful APIs</b>, and <b>Database Design</b>.<br/>
-⚙️ Strong background in <b>Microservices</b>, <b>Docker</b>, <b>CI/CD Pipelines</b>, and <b>Testing</b>.<br/>
+💡 Experienced with <b>JWT Authentication</b>, <b>RESTful APIs</b>, <b>Email Systems (Nodemailer & Mailhog)</b>, and <b>Database Design</b>.<br/>
+🤖 Strong background in <b>Microservices</b>, <b>AI Integration</b>, <b>Docker</b>, and <b>CI/CD Pipelines</b>.<br/>
 🌍 Based in <b>Cairo, Egypt</b> — Always eager to learn and collaborate.
 </p>
 
----
-
 <!-- 🌈 Divider -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="4">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Color Divider"/>
 </p>
-
----
 
 ### 🛠️ Tech Stack
 
