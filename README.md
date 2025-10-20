@@ -146,7 +146,7 @@
 
 <!-- ✨ Colorful Footer -->
 <p align="center">
-  <img src="https://i.imgur.com/HN6zqYy.gif" width="100%" alt="footer divider"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="footer divider"/>
 </p>
 
 <p align="center">
