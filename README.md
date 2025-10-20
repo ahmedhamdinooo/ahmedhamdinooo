@@ -1,6 +1,6 @@
 <!-- 🟩 Animated Banner -->
 <p align="center">
-  <!-- ✅ استخدم رابط شغال دائمًا -->
+  <!-- ✅  -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Animated Color Banner"/>
 </p>
 
@@ -27,9 +27,9 @@
 🌍 Based in <b>Cairo, Egypt</b> — Always eager to learn and collaborate.
 </p>
 
-<!-- 🌈 Divider -->
+<!-- 🌈 Clean Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Color Divider"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
 </p>
 
 ### 🛠️ Tech Stack
@@ -41,7 +41,14 @@
 
 #### ⚙️ Backend Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,jwt,bcrypt,nodemailer" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+
+<p align="center">
+  <!-- أدوات مش مدعومة في skillicons -->
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bcrypt-00BFFF?style=for-the-badge&logo=lock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodemailer-009688?style=for-the-badge&logo=gmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mailhog-FF4081?style=for-the-badge&logo=minutemailer&logoColor=white"/>
 </p>
 
@@ -61,15 +68,9 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,cloudinary" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mailhog-FF4081?style=for-the-badge&logo=minutemailer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FC6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
 ---
 
 ### 🧩 Core Concepts
-
 <p align="center">
   <img src="https://img.shields.io/badge/Clean%20Code-2C2C2C?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Error%20Handling-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white" />
@@ -79,11 +80,12 @@
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
+
 ---
 
-<!-- 🌈 Divider -->
+<!-- 🌈 Clean Divider -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="4">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
 </p>
 
 ---
@@ -108,9 +110,9 @@
 
 ---
 
-<!-- 🌈 Divider -->
+<!-- 🌈 Clean Divider -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="4">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
 </p>
 
 ---
