@@ -1,6 +1,6 @@
-<!-- 🟦 Animated Banner -->
+<!-- 🟩 Animated Banner -->
 <div align="center">
-  <img src="https://i.imgur.com/9Y5d2M7.gif" width="100%" alt="Banner Ahmed Hamdy Backend Developer"/>
+  <img src="https://raw.githubusercontent.com/ahmedhamdinooo/ahmedhamdinooo/main/banner.gif" width="100%" alt="Ahmed Hamdy Banner" />
 </div>
 
 <!-- Header -->
@@ -50,6 +50,13 @@
 #### ⚙️ Backend Frameworks & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,jwt,bcrypt,nodemailer" />
+  <img src="https://img.shields.io/badge/Mailhog-FF4081?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+</p>
+
+#### 🤖 AI & ML Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 #### 🗄️ Databases
